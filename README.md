@@ -11,7 +11,7 @@
   <a href="https://www.linkedin.com/in/Serhiy Shambir/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:vitaliifedunyk.dev@gmail.com">
+  <a href="realistic.sergio@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
@@ -60,12 +60,10 @@ I have experience building personal and team-based frontend projects, with a foc
 
 ## Featured Projects
 
-| Project               | Description                                                                                                                                                      | Stack                           | Demo                                                  |
-| --------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------- | ----------------------------------------------------- |
-| **Portfolio Website** | Personal frontend portfolio built with React, TypeScript, and Tailwind CSS. Includes reusable components, responsive layout, and animated UI with Framer Motion. | React, TypeScript, Tailwind CSS | [Live](https://vitaliifedunyk.vercel.app)             |
-| **RepoFinder**        | GitHub user and repository search application with API integration, pagination, and loading/error states. Focused on structured data handling and clean UI.      | TypeScript, Tailwind CSS, Vite  | [Live](https://repofinder.vercel.app)                 |
-| **JobFlow**           | Job application tracker with CRUD operations, filtering, sorting, and localStorage persistence. Focused on practical UI behavior and state management.           | JavaScript, Vite                | [Live](https://jobflow-crud.vercel.app/)              |
-| **Bug Hunters**       | Team-based furniture store frontend with responsive UI and REST API integration. Worked as Team Lead, coordinating structure and development workflow.           | JavaScript, REST API, Vite      | [Live](https://vitaliifedunyk.github.io/bug-hunters/) |
+| Project | Description | Stack | Demo |
+| --------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------- | ----------------------------------------------------------- | --- | |
+| **Eco Tote Project** | Responsive landing page for an eco-brand. Focused on semantic HTML5/CSS3, custom styling of contact forms, and mobile-first approach. | HTML5, CSS3 | [Live](https://realisticsergio.github.io/eco-tote-project/) | |
+| **Bug Hunters** | Team-based furniture store. Implemented complex Order Modal logic, form validation, and API integration. Collaborated in a team of 9 to build, coordinating structure and development workflow. | JavaScript, REST API, Vite | [Live](https://vitaliifedunyk.github.io/bug-hunters/) |
 
 ---
 
