@@ -64,7 +64,7 @@ I have experience building personal and team-based frontend projects, with a foc
 | :------------------- | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :------------------------- | :---------------------------------------------------------- |
 | **Eco Tote Project** | Responsive landing page for an eco-brand. Focused on semantic HTML5/CSS3, custom styling of contact forms, and mobile-first approach.                                                           | HTML5, CSS3                | [Live](https://realisticsergio.github.io/eco-tote-project/) |
 | **Bug Hunters**      | Team-based furniture store. Implemented complex Order Modal logic, form validation, and API integration. Collaborated in a team of 8 to build, coordinating structure and development workflow. | JavaScript, REST API, Vite | [Live](https://vitaliifedunyk.github.io/bug-hunters/)       |
-
+| **Portfolio Website** | Personal frontend portfolio built with React, TypeScript, and Tailwind CSS. Includes reusable components, responsive layout, and animated UI with Framer Motion. | React, TypeScript, Tailwind CSS | [Live](https://portfolio-s9xw.vercel.app/) |
 ---
 
 ## GitHub Stats
